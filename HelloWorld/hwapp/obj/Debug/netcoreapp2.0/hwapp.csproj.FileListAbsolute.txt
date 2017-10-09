@@ -8,3 +8,13 @@
 /Users/caihourong/Documents/code/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfo.cs
 /Users/caihourong/Documents/code/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.dll
 /Users/caihourong/Documents/code/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.pdb
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/bin/Debug/netcoreapp2.0/hwapp.deps.json
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/bin/Debug/netcoreapp2.0/hwapp.runtimeconfig.json
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/bin/Debug/netcoreapp2.0/hwapp.runtimeconfig.dev.json
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/bin/Debug/netcoreapp2.0/hwapp.dll
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/bin/Debug/netcoreapp2.0/hwapp.pdb
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.csproj.CoreCompileInputs.cache
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfoInputs.cache
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfo.cs
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.dll
+/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/obj/Debug/netcoreapp2.0/hwapp.pdb

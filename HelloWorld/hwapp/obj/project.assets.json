@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/caihourong/Documents/code/HelloWorld/hwapp/hwapp.csproj",
+      "projectUniqueName": "/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/hwapp.csproj",
       "projectName": "hwapp",
-      "projectPath": "/Users/caihourong/Documents/code/HelloWorld/hwapp/hwapp.csproj",
+      "projectPath": "/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/hwapp.csproj",
       "packagesPath": "/Users/caihourong/.nuget/packages/",
-      "outputPath": "/Users/caihourong/Documents/code/HelloWorld/hwapp/obj/",
+      "outputPath": "/Users/caihourong/Documents/CSHARP_HW/HelloWorld/hwapp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
